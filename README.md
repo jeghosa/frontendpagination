@@ -1,0 +1,1 @@
+this react project is on pagination and it is the frontend of a MERN project. The backend is in my github repository https://github.com/jeghosa/pagination-nodejs.git. to get the full functionality, run node app.js on the backend and /pagine/npm start on the front end react app
